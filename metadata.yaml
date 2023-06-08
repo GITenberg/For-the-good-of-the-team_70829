@@ -1,0 +1,35 @@
+_repo: For-the-good-of-the-team_70829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2023-05-21'
+identifiers:
+  gutenberg: '70829'
+  lccn: '23012866'
+language: en
+pgterms:marc905: 20181208144053barbour
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Football -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Connecticut -- Juvenile fiction'
+- !lcsh 'Football stories'
+- !lcc 'PZ'
+- GITenberg
+title: For the good of the team
+url: http://www.gutenberg.org/ebooks/70829
