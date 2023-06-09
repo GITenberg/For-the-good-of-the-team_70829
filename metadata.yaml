@@ -1,5 +1,8 @@
 _repo: For-the-good-of-the-team_70829
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70829-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70829#For-the-good-of-the-team
 gutenberg_issued: '2023-05-21'
 identifiers:
   gutenberg: '70829'
